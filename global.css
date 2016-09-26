@@ -1,0 +1,12 @@
+body {
+  /*background-color:green;*/
+}
+.red-text {
+  color:red;
+}
+.big-font {
+  font-size: 100px;
+}
+strong {
+  transition: all 1s ease;
+}
